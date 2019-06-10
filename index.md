@@ -415,6 +415,7 @@ please preview your site before committing, and make sure to run
   </div>
 </div> {% comment %} End of 'shell' section. {% endcomment %}
 
+{% comment %}
 <div id="git"> {% comment %} Start of 'Git' section. GitHub browser compatibility
   is given at https://help.github.com/articles/supported-browsers/{% endcomment %}
   <h3>Git</h3>
@@ -477,6 +478,7 @@ please preview your site before committing, and make sure to run
     </div>
   </div>
 </div> {% comment %} End of 'Git' section. {% endcomment %}
+{% endcomment %}
 
 <div id="editor"> {% comment %} Start of 'editor' section. {% endcomment %}
   <h3>Text Editor</h3>
@@ -543,7 +545,7 @@ please preview your site before committing, and make sure to run
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
-{# comment #}
+{% comment %}
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
   the workshop will teach Python using something other than
   the Jupyter notebook.
@@ -641,8 +643,9 @@ please preview your site before committing, and make sure to run
   </p>
   {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
-{% end comment %}
+{% endcomment %}
 
+{% comment %}
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
@@ -698,7 +701,9 @@ please preview your site before committing, and make sure to run
     </div>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
+{% endcomment %}
 
+{% comment %}
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
   <h3>SQLite</h3>
 
@@ -831,6 +836,7 @@ please preview your site before committing, and make sure to run
     </div>
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
+{% endcomment %}
 
 {% comment %}
 <div id="vm">
