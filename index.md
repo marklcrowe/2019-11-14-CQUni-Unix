@@ -110,7 +110,10 @@ if the latitude and longitude of the workshop have been set.  You
 can use https://itouchmap.com/latlong.html to find the lat/long of an
 address.
 {% endcomment %}
-Virtual workshop taught over Zoom
+<p id="where">
+  <strong>Where:</strong>
+  Virtual workshop taught over Zoom
+</p>
 {% if page.latlng %}
 <p id="where">
   <strong>Where:</strong>
