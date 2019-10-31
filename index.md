@@ -69,7 +69,7 @@ displayed if the 'eventbrite' field in the header is not set.
  </p>
 
  <p>
-  You must attend for the full day, unless otherwise confirmed with the instructor.  With this training provided online using ZOOM, places are very limited.  With this in mind, <b>if you register to attend and then don’t attend the full training, you will forfeit any other training provided by CQUniversity eResearch Support for the remaining of the year.</b>  Obviously, if there are extenuating circumstances, then they will be considered.  If you cannot make this workshop, you will need to information the trainers 48 hours prior to the start of the workshop.
+  You must attend for the full day, unless otherwise confirmed with the instructor.  With this training provided online using Zoom, places are very limited.  With this in mind, <b>if you register to attend and then don’t attend the full training, you will forfeit any other training provided by CQUniversity eResearch Support for the remaining of the year.</b>  Obviously, if there are extenuating circumstances, then they will be considered.  If you cannot make this workshop, you will need to inform the trainers 48 hours prior to the start of the workshop.
 </p>
 
 <h2 id="general">General Information</h2>
